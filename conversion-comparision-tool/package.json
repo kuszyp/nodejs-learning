@@ -1,0 +1,16 @@
+{
+  "name": "conversion-comparison-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.6.0",
+    "stream-json": "^1.8.0"
+  }
+}
